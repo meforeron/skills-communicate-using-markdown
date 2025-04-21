@@ -6,6 +6,8 @@
 
 
 
+
+
 ### Example 3
 
 ```html
@@ -18,9 +20,9 @@
     <h1>Welcome!</h1>
   </body>
 </html>
+```
 
 
-
-- [ ] Turn on GitHub Pages
+- [ x ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
